@@ -1,4 +1,4 @@
 # Drwalnia
-My site design in Wordpress
+My Wordpress site design
 
 http://marenty.cba.pl/
